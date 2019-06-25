@@ -5,8 +5,6 @@
 
 An Array is a collection of Items stored at contiguous (sharing a common border; touching) memory locations.
 
-' ' 'python
-
+```python
 print("Hello World")
-
-' ' '
+```
