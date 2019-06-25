@@ -1,5 +1,5 @@
 # Data-Structure
- * [Array](## Array)
+ * [Array](##Array)
  
 ## Array
 
