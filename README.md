@@ -3,6 +3,8 @@
  
 ## Array
 
-An Array is a collection of Items stored at contiguous [^1] memory locations.
+An Array is a collection of Items stored at contiguous (sharing a common border; touching) memory locations.
 
-[^1]: sharing a common border; touching 
+'''python
+print("Hello World")
+'''
