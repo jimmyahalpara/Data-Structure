@@ -12,3 +12,4 @@ An array is a collection of items stored at contiguous memory locations.
  * [Binary Search](https://github.com/jimmyahalpara/Data-Structure/blob/master/Code/Array%20-%20Binary%20Search.c)
  * [Matrix Transpose]()
  * [Rotation]()
+ 
