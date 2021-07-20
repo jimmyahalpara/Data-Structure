@@ -1,0 +1,1 @@
+g++ initial.cpp -std=c++17 -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -pedantic-errors && a < input.txt
